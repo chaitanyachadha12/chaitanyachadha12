@@ -7,15 +7,9 @@
 
 - 🌱 I’m currently exploring **Machine Learning Operations**
 
-- 👨‍💻 All of my projects are available at [https://www.chaitanyachadha.com/](https://www.chaitanyachadha.com/)
-
-- 📝 I regularly write articles on [https://medium.com/@chaitanyachadha12](https://medium.com/@chaitanyachadha12)
-
 - 💬 Ask me about **Python, Machine Learning and LLMs**
 
 - 📫 How to reach me **chaitanyachadha12@gmail.com**
-
-- 📄 Know about my experiences [https://www.chaitanyachadha.com/resume.pdf](https://www.chaitanyachadha.com/resume.pdf)
 
 - ⚡️ Hobbies **Anime, Cooking, Traveling**
 
