@@ -12,6 +12,7 @@
     <img src="https://img.shields.io/badge/Scholar-blue?style=for-the-badge&logo=google&logoColor=white" alt="Scholar Badge"/>
   </a>
 </div>
+  <img src="https://komarev.com/ghpvc/?username=chaitanyachadha12&style=flat-square&color=blue" alt=""/>
 </div>
 
 ## Hi there 👋
