@@ -21,3 +21,16 @@
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
+
+---
+
+## :man_technologist: About Me :
+
+- :telescope: I am a graduate student at George Washington University.
+
+- :seedling: Exploring Machine Learning Operations.
+
+- :zap: I watch Anime and cook in my free time.
+
+- :mailbox:How to reach me: [![Gmail Badge](https://img.shields.io/badge/-Gmail-red?style=flat&logo=Gmail&logoColor=white)](chaitanyachadha12@gmail.com)
+
